@@ -1,0 +1,3 @@
+SELECT *
+FROM `gerardiawan`.`managemen_user`
+LIMIT 1000;
